@@ -1,5 +1,1 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring 2023 semestre for IS 170 Machine Learning. 
-
-My name is Edwin Fuentes.
-
-![image](https://github.com/Toulouse08/IS-170-Machine-Learning/assets/133083015/69f60130-7994-45b7-91c7-41f7bf8469ef)
+Feature Engineering helps clean up your dataset by removing null values and/or replacing the null values with the averages of the dataset values. Feature Engineering can also be used to change yes and no for example into numerical values of 0s and 1s. to help clean up your data set to be able to incorporate your data better. 
