@@ -1,5 +1,1 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring 2023 semestre for IS 170 Machine Learning. 
-
-My name is Edwin Fuentes.
-
-![image](https://github.com/Toulouse08/IS-170-Machine-Learning/assets/133083015/69f60130-7994-45b7-91c7-41f7bf8469ef)
+The goal of Principal Component Analysis is to explain most of the variability in the data with a smaller number of variables than the original data. Showing patterns within the data to show for better accuracy. Can be used in Computer vision & Image compression, Facial Recognition, Quantitative finance (forecasting portfolio returns, asset allocation algorithms), Medical Data Analysis, Fraud Detection
