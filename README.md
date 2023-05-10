@@ -1,5 +1,1 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring 2023 semestre for IS 170 Machine Learning. 
-
-My name is Edwin Fuentes.
-
-![image](https://github.com/Toulouse08/IS-170-Machine-Learning/assets/133083015/69f60130-7994-45b7-91c7-41f7bf8469ef)
+A supervised algorithm that classifies a data point based on the classification of its nearest neighbors. Example would be Identification using biometrics (casino security), Detect patterns in credit card usage, key patterns in customer purchasing behavior, stock market analysis, recommender systems. It is used to better predict a consumable for a customer that better alines with their buying behavior or recommendations such as Netflix or Youtube recommendations for what you are currently watching. 
