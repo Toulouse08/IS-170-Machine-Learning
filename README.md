@@ -1,5 +1,14 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring 2023 semestre for IS 170 Machine Learning. 
-
-My name is Edwin Fuentes.
-
-![image](https://github.com/Toulouse08/IS-170-Machine-Learning/assets/133083015/69f60130-7994-45b7-91c7-41f7bf8469ef)
+1 Table of Content
+2 Executive Summary
+3 Python & Feat. Eng.
+4 Feature Engineering
+5 Text mining & NLP
+6 K-means-Clustering
+7 Assocation Rules
+8 Principal Component Analysis
+9 K-nearest-Neighbors
+10 Naive Bayes
+11 Regression Analysis
+12 Decision Tree & Random Forest
+13 Support Vector Machines
+14 Social Network Analysis
