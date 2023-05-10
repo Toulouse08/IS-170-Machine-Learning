@@ -1,5 +1,1 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring 2023 semestre for IS 170 Machine Learning. 
-
-My name is Edwin Fuentes.
-
-![image](https://github.com/Toulouse08/IS-170-Machine-Learning/assets/133083015/69f60130-7994-45b7-91c7-41f7bf8469ef)
+Considered to be a classification approach, but can also be employed for regression problems. SVM Constructs a hyperplane in multidimensional space to separate different classes. Generates optimal hyperplane in an iterative manner, used to minimize an error. Core idea of SVM is to find a maximum marginal hyperplane that best divides that dataset into classes. Applications include Face detection, Bioinformatics, Text Categorizatin, Generalized Predictive Control, Handwrinting REcognition, Image Classification.
