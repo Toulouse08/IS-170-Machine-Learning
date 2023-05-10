@@ -1,1 +1,1 @@
-We will be going through all the machine learning algorithms used throughout the Spring 2023 semseter. We will go a bit into how an algorithm works and show me using the algorithms to complete some course work. We will be going through 11 differnt algorithms.
+We will be going through all the machine learning algorithms used throughout the Spring 2023 semseter. We will go a bit into how an algorithm works and show me using the algorithms to complete some course work. We will be going through 11 different algorithms.
