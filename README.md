@@ -1,5 +1,1 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring 2023 semestre for IS 170 Machine Learning. 
-
-My name is Edwin Fuentes.
-
-![image](https://github.com/Toulouse08/IS-170-Machine-Learning/assets/133083015/69f60130-7994-45b7-91c7-41f7bf8469ef)
+The Association Rules helps differentiate the data by making it possible to show the common factor presented in the dataset. For example in one of the dataset we figued out what made the most popular movies show what was found most common between them. To show what the top movies had in common with eachother. Great for looking at grociery stores to see what items paid good with eachother.
