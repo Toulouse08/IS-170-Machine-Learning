@@ -1,1 +1,1 @@
-# IS-170-Machine-Learning
+An unsupervised learning (data mining) algorithm that determines a number (k) of distinct clusters based on particular attributes of data points. This algorithm is used to determine peoples buying behavior, to show relationship betweeen items that are frequently bought by a person. This take large datasets and makes it so that a focal point of the data is able to become visible to see the relationship between the dataset. To find centroids in datasets to better understand our data.
